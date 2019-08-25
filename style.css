@@ -1,1 +1,10 @@
+html, body, header, #intro {
+    height: 100;
+}
 
+#intro {
+    background: jpg
+    ("amd-ryzen-8k-hw-7680x4320.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+}
