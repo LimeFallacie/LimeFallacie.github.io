@@ -8,9 +8,9 @@
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="stylee.css">
 	</head>
-        <body>
+        <body data-spy="scroll" data-target="#navbar">
 		<header>
-			<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+			<nav id="navbar" class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
 				<a class="navbar-brand" href="#">Landing Page</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                     			<span class="navbar-toggler-icon"></span>
@@ -19,16 +19,16 @@
 				<div class="collapse navbar-collapse" id="navbarText">
 					<ul class="navbar-nav mr-auto">
 						<li class="nav-item">
-							<a class="nav-link" href="#">Home</a>
+							<a class="nav-link" href="#intro">Home</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Features</a>
+							<a class="nav-link" href="#features">Features</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Gallery</a>
+							<a class="nav-link" href="#gallery">Gallery</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Contact Me</a>
+							<a class="nav-link" href="#contact">Contact Me</a>
 						</li>
 					</ul>
 				</div>
@@ -102,7 +102,7 @@
                                 </div>
 			</section>
 			<hr />
-			<section id="contact me">
+			<section id="contact">
                                 <h2 class="mt-2 font-weight-bold">Contact Me</h2>
 
                                 <div class="container-fluid">
@@ -143,7 +143,16 @@
                         
 		</main>
 		
-		<footer>
+		<footer class="page-footer bg-dark">
+                        <div class="container">
+                                <div class="row d-flex justify-content-center align-items-center h-100">
+                                        <div class="col-md-6 text-center">
+                                                <a href="#" class="text-white"><i class="fa fa-twitter"></i></a>
+                                                <a href="#" class="text-white"><i class="fa fa-facebook"></i></a>
+                                                <a href="#" class="text-white"><i class="fa fa-github"></i></a>
+                                        </div>
+                                </div>
+                        </div>
 		</footer>
 		
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
