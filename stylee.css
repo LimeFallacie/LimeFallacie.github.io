@@ -2,6 +2,10 @@ html, body, header, #intro {
     height: 100%;
 }
 
+html * {
+        font-family: "Lucida Console", 'Courier New', Courier, monospace;
+}
+
 #intro {
     background: url("/img/banner.png") no-repeat center center fixed;
     background-size: cover;
