@@ -42,4 +42,4 @@ entry fields for contact
 
 ##URLs:
 [github link](limefallacie.github.io)
-[heroku link (this link is currently down)](emilkoh.herokuapp.com)
+[heroku link](emilkoh.herokuapp.com)

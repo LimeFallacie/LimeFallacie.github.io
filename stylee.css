@@ -6,7 +6,8 @@ html * {
         font-family: "Lucida Console", 'Courier New', Courier, monospace;
 }
 
-#intro {
-    background: url("/img/banner.jpg") no-repeat center center fixed;
+body {
+    background: url("/img/banner.jpg") center center fixed;
+    background-repeat: repeat-y;
     background-size: cover;
 }
