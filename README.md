@@ -3,7 +3,7 @@ Portfolio Page for DMC1401IS
 
 # This website is meant to be a mirror of my resume
 
-##Site skeleton: 
+## Site skeleton: 
 https://docs.google.com/presentation/d/1ozz4zlVkbTWSF4X6L-dgo-fr_kqbj_zyiHMeS7vzRX0/edit?usp=sharing
 
 ## Sections:
