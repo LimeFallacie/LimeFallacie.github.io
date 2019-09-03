@@ -31,5 +31,5 @@ My intention was to try something different in html/css for each section:
 ## Code references:
 
 ## URLs:
-[github link](limefallacie.github.io)
-[heroku link](emilkoh.herokuapp.com)
+[github link](https://limefallacie.github.io)
+[heroku link](https://emilkoh.herokuapp.com)
