@@ -27,8 +27,19 @@ My intention was to try something different in html/css for each section:
 * entry fields for contact
 
 ## Challenges faced:
+Learning the basics of html itself was quite daunting, as I was comparing my work to professional sites that I was familiar with. It was quite a hurdle to brush off the idea that my work was not good enough and to focus on learning.
+
+There were times where the formatting of certain sections did not work as intended, like the card-deck I wanted to use in the Work Experience section, and the Carousel in the Gallery section. A lot of trial and error was used to ensure the site displayed properly.
 
 ## Code references:
+* https://getbootstrap.com/docs/4.3/components/progress/
+* https://getbootstrap.com/docs/4.1/components/card/
+* https://mdbootstrap.com/docs/jquery/javascript/carousel/
+* https://getbootstrap.com/docs/4.0/content/images/
+* https://getbootstrap.com/docs/4.0/components/carousel/
+* https://www.w3schools.com/bootstrap4/bootstrap_colors.asp
+
+
 
 ## URLs:
 [github link](https://limefallacie.github.io)  
